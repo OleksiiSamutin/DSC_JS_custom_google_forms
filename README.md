@@ -1,2 +1,2 @@
-# DSC_JS_custom_google_forms
+# THE BEST FORMS IN THE WORLD
 Project which implements custom questionnaire simmilar to google forms
